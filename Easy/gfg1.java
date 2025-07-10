@@ -1,8 +1,6 @@
 // Missing in Array
 
 // https://www.geeksforgeeks.org/problems/missing-number-in-array1416/0
-
-
 class Solution {
     int missingNum(int arr[]) {   // O(n)  0(1)
         // code here

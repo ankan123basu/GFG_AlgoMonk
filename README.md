@@ -141,8 +141,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🧑🏻‍💻 GitHub: [ankan123basu](https://github.com/ankan123basu)
 - 📊 GeeksForGeeks: [ankanbasu02](https://www.geeksforgeeks.org/user/ankanbasu02/)
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 📧 Email: [Your Email]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ankan-basu-595152271/]
+- 📧 Email: [ankanbasu10@gmail.com]
 
 ## 🌟 Highlights
 - Consistent coding style
