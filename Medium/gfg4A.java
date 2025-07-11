@@ -16,6 +16,7 @@ class Solution {
         while (r < n) {
             sum += arr[r];
             
+            
             while (sum > k && l <= r) {
                 sum -= arr[l];
                 l++;
