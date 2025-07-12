@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 class Sol {
     public int longestSubarray(int[] arr, int k) {
-        // Prefix Sum + Hashmap                                    // O(n)  O(n)
+        // Prefix Sum + Hashmap                                   // O(n)  O(n)
         HashMap<Integer, Integer> map = new HashMap<>();
         int n = arr.length;
         int sum = 0 , maxLen = 0;
